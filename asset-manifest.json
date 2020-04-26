@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-recipes-MiniProjet/static/css/main.844705f8.chunk.css",
+    "main.js": "/react-recipes-MiniProjet/static/js/main.3ba79460.chunk.js",
+    "main.js.map": "/react-recipes-MiniProjet/static/js/main.3ba79460.chunk.js.map",
+    "runtime-main.js": "/react-recipes-MiniProjet/static/js/runtime-main.291ed5ee.js",
+    "runtime-main.js.map": "/react-recipes-MiniProjet/static/js/runtime-main.291ed5ee.js.map",
+    "static/js/2.c93e3006.chunk.js": "/react-recipes-MiniProjet/static/js/2.c93e3006.chunk.js",
+    "static/js/2.c93e3006.chunk.js.map": "/react-recipes-MiniProjet/static/js/2.c93e3006.chunk.js.map",
+    "index.html": "/react-recipes-MiniProjet/index.html",
+    "precache-manifest.155cf845e99372e677ed605903d6723c.js": "/react-recipes-MiniProjet/precache-manifest.155cf845e99372e677ed605903d6723c.js",
+    "service-worker.js": "/react-recipes-MiniProjet/service-worker.js",
+    "static/css/main.844705f8.chunk.css.map": "/react-recipes-MiniProjet/static/css/main.844705f8.chunk.css.map",
+    "static/js/2.c93e3006.chunk.js.LICENSE.txt": "/react-recipes-MiniProjet/static/js/2.c93e3006.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-recipes-MiniProjet/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291ed5ee.js",
+    "static/js/2.c93e3006.chunk.js",
+    "static/css/main.844705f8.chunk.css",
+    "static/js/main.3ba79460.chunk.js"
+  ]
+}
