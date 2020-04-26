@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.card-text{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.overlay {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+  z-index: 5; /* Specify a stack order in case you're using a different order for other elements */
+}
+.overlay-content {
+  background-color: white;
+  position: absolute;
+  transform:translate(-50%, -50%);
+  top:50%;
+  left:50%; /* 25% from the top */
+  width: 50%; /* 100% width */
+  margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+.ingredients,.editForm,.addForm{
+  padding:5%;
+  width: 100%;
+}
+.recipeCard{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 2;
+  color: white
+}
+.timeText{
+  margin-bottom: 20px;
+}

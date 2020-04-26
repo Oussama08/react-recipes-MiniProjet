@@ -1,0 +1,82 @@
+{
+  "0": {
+    "recipeID": 0,
+    "title": "Easy Roasted Dry-Brined Turkey",
+    "image": "https://www.edamam.com/web-img/031/0312c98f83742c9c59b5bff1f845bfdb.jpg",
+    "description": "Recipe: #0",
+    "time": 240,
+    "ingredients": ["1 14-pound turkey, neck and heart reserved for Easy Turkey Stock", "1/3 cup coarse salt", "2 tablespoons coarsely cracked black peppercorns"]
+  },
+  "1": {
+    "recipeID": 1,
+    "title": "Easy Mixed-Cheese Quic  he Recipe",
+    "image": "https://www.edamam.com/web-img/92d/92dad9af0d1caad95db9ea1beda589e6.jpg",
+    "description": "Recipe: #1",
+    "time": 120,
+    "ingredients": ["1/2 recipe Easy Pie Dough, rolled out to a 12-inch circle (see note above)", "1 cup heavy cream (see note above)", "1 cup whole milk (see note above)", "3 large eggs", "1 teaspoon kosher salt", "Freshly ground black pepper", "8 ounces mixed rindless soft and semi-soft cheeses (such as Gruyere, Fontina, Cheddar, Gorgonzola, Stilton, Jack, etc.), cubed or broken into small clumps"]
+  },
+  "2": {
+    "recipeID": 2,
+    "title": "\"Sweet Heat\" Grilled Prosciutto and Smoked Gouda Sandwich (with spicy plum chutney and crispy onions)",
+    "image": "https://www.edamam.com/web-img/a3b/a3b22f7cad8230779fdcec0b7f5afba3.JPG",
+    "description": "Recipe: #2",
+    "time": 143,
+    "ingredients": ["2 slices onion rye bread", "Butter, at room temperature for easy spreading", "1 teaspoon spicy plum chutney", "1/2 cup finely shredded smoked gouda", "2 slices prosciutto", "1 tablespoon crispy onions"]
+  },
+  "3": {
+    "recipeID": 3,
+    "title": "Cheesy Baked Meatballs",
+    "image": "https://www.edamam.com/web-img/709/709c3eb7d53e25334056162ae22773b7.jpg",
+    "description": "Recipe: #3",
+    "time": 60,
+    "ingredients": ["20  Easy Meatballs", "2 cups marinara sauce", "4 ounces fontina, thinly sliced"]
+  },
+  "4": {
+    "recipeID": 4,
+    "title": "Savory Egg Crostata with Butter and Mint recipes",
+    "image": "https://www.edamam.com/web-img/b19/b19885aa059483875f6e36fc2354e53b",
+    "description": "Recipe: #4",
+    "time": 40,
+    "ingredients": ["3 eggs", "1 tablespoon fresh mint leaves, thinly sliced", "1 tablespoon melted butter", "1/4 teaspoon salt", "1 disk (1/2 recipe) Easy Cream Cheese Pie Dough, chilled at least 20 minutes"]
+  },
+  "5": {
+    "recipeID": 5,
+    "title": "Focaccia",
+    "image": "https://www.edamam.com/web-img/0a6/0a6a93f86ffa9b70f91af5bd64d44c70.jpg",
+    "description": "Recipe: #5",
+    "time": 150,
+    "ingredients": ["500g/1lb 2oz strong white bread flour", "2 tsp salt", "2 sachets dried easy blend yeast", "2 tbsp olive oil", "400ml/14fl oz cold water", "Fine sea salt"]
+  },
+  "6": {
+    "recipeID": 6,
+    "title": "Shrimp with Chesapeake Dipping Sauce",
+    "image": "https://www.edamam.com/web-img/5fc/5fc2a5faba7e13e313f2910c90f08ffb.jpg",
+    "description": "Recipe: #6",
+    "time": 6,
+    "ingredients": ["2¾ lb. large raw easy-to-peel cleaned shrimp", "¼ c. wasabi horseradish mayonnaise", "3 tbsp. no-salt-added ketchup"]
+  },
+  "7": {
+    "recipeID": 7,
+    "title": "3 Ingredient Homemade Chocolate Covered Raisins recipes",
+    "image": "https://www.edamam.com/web-img/859/859ececeac330d95363dde7851723104",
+    "description": "Recipe: #7",
+    "time": 10,
+    "ingredients": ["1/4 cup dark chocolate chips (I use organic because it tastes so much better!)", "1/2 tbsp coconut oil (it really thins out the chocolate and makes it easy to coat)", "Approx 1.5 cups raisins"]
+  },
+  "8": {
+    "recipeID": 8,
+    "title": "Eggs Benedict and Easy Hollandaise Sauce",
+    "image": "https://www.edamam.com/web-img/2a2/2a2214c36a018e9fdc9b6e675143c7f7.jpeg",
+    "description": "Recipe: #8",
+    "time": 25,
+    "ingredients": ["4 extra-large eggs, at room temperature", "2 thin slices of prosciutto", "2 English muffins, sliced in half and toasted", "2 extra-large egg yolks, at room temperature", "1 1/2 tablespoons freshly squeezed lemon juice", "3/4 teaspoon kosher salt", "1/4 teaspoon freshly ground black pepper", "Pinch of cayenne pepper", "6 tablespoons (3/4 stick) unsalted butter"]
+  },
+  "9": {
+    "recipeID": 9,
+    "title": "Easy Tomato and Smoked Feta Tart Recipe",
+    "image": "https://www.edamam.com/web-img/eed/eedbfd28342662ccbc5d088d99219813.jpg",
+    "description": "Recipe: #9",
+    "time": 100,
+    "ingredients": ["1 teaspoon liquid smoke", "5 ounces block feta cheese, with 1 cup of its brine (see note above)", "1 1/2 pounds ripe beefsteak tomatoes (about 2 large), cut into slices", "1/2 pound cherry tomatoes, split in half", "Kosher salt", "1/2 recipe Easy Pie Dough", "2 tablespoons whole-grain mustard", "Freshly ground black pepper", "2 tablespoons extra-virgin olive oil, plus more for finishing", "1 tablespoon minced fresh oregano, marjoram, and/or thyme leaves", "2 tablespoons minced fresh delicate herbs, such as parsley, mint, basil, tarragon, and/or chives"]
+  }
+}
